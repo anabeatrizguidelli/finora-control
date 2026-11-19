@@ -16,7 +16,6 @@ Aplicação web para estudantes universitários acompanharem os próprios gastos
 - Ana Beatriz Guidelli
 - Douglas William Barbosa de Oliveira
 - Gabriella Silva
-- Henrique Rikelme de Lima Dias
 - Tiago Alves Ayala
 - Victor Hugo Machado Leal
 
